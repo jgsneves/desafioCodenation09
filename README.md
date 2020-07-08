@@ -1,3 +1,7 @@
+<h1 align=center>
+<img src="https://raw.githubusercontent.com/jgsneves/desafioCodenation/master/codenation.png" />
+</h1>
+
 # Desafio Continuous integration
 
 A integração contínua é uma parte importante do desenvolvimento de software e possui várias
